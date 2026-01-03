@@ -1,10 +1,10 @@
 {
   "name": "Gagner de l'argent",
   "short_name": "Gagner",
-  "start_url": ".",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#6a00ff",
+  "theme_color": "#6a00ff",
   "icons": [
     {
       "src": "icon-192.png",
